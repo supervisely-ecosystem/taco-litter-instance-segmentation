@@ -1,0 +1,13 @@
+{
+  "name": "TACO Litter Instance Segmentation",
+  "description": "150 TACO photos of litter in real scenes, split into a 30-image calibration batch and a 120-image production batch, ready for instance segmentation.",
+  "type": "project",
+  "categories": [
+    "import",
+    "images",
+    "project",
+    "environment"
+  ],
+  "icon": "https://raw.githubusercontent.com/supervisely-ecosystem/taco-litter-instance-segmentation/master/cover.png",
+  "icon_cover": true
+}
