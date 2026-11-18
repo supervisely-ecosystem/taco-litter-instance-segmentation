@@ -1,0 +1,93 @@
+{
+    "classes": [
+        {
+            "title": "bottle",
+            "description": "",
+            "shape": "any",
+            "color": "#E6194B",
+            "geometry_config": {},
+            "hotkey": ""
+        },
+        {
+            "title": "bottle cap",
+            "description": "",
+            "shape": "any",
+            "color": "#3CB44B",
+            "geometry_config": {},
+            "hotkey": ""
+        },
+        {
+            "title": "can",
+            "description": "",
+            "shape": "any",
+            "color": "#FFE119",
+            "geometry_config": {},
+            "hotkey": ""
+        },
+        {
+            "title": "carton",
+            "description": "",
+            "shape": "any",
+            "color": "#0082C8",
+            "geometry_config": {},
+            "hotkey": ""
+        },
+        {
+            "title": "cup",
+            "description": "",
+            "shape": "any",
+            "color": "#F58230",
+            "geometry_config": {},
+            "hotkey": ""
+        },
+        {
+            "title": "plastic bag or wrapper",
+            "description": "",
+            "shape": "any",
+            "color": "#911EB4",
+            "geometry_config": {},
+            "hotkey": ""
+        },
+        {
+            "title": "cigarette",
+            "description": "",
+            "shape": "any",
+            "color": "#46F0F0",
+            "geometry_config": {},
+            "hotkey": ""
+        },
+        {
+            "title": "paper",
+            "description": "",
+            "shape": "any",
+            "color": "#F032E6",
+            "geometry_config": {},
+            "hotkey": ""
+        },
+        {
+            "title": "other plastic",
+            "description": "",
+            "shape": "any",
+            "color": "#D2F53C",
+            "geometry_config": {},
+            "hotkey": ""
+        },
+        {
+            "title": "other litter",
+            "description": "",
+            "shape": "any",
+            "color": "#FABED4",
+            "geometry_config": {},
+            "hotkey": ""
+        }
+    ],
+    "tags": [],
+    "projectSettings": {
+        "multiView": {
+            "enabled": false,
+            "tagName": null,
+            "tagId": null,
+            "isSynced": false
+        }
+    }
+}
